@@ -1,5 +1,5 @@
 # buildspace x thirdweb - Build your own DAO with just Javascript
-##Checkout : https://buildspace-dao-starter-v2.ifrahmasood.repl.co/
+### Checkout : https://buildspace-dao-starter-v2.ifrahmasood.repl.co/
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
