@@ -1,6 +1,6 @@
 # Basic Sample Hardhat Project
 
-## Checkout: https://gif-portal-starter-project-real.ifrahmasood.repl.co
+## Checkout: https://gif-portal-starter-project-hello.ifrahmasood.repl.co/
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
